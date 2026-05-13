@@ -139,9 +139,10 @@ I believe in continuous learning, building impactful projects, and helping other
 # 🤝 Connect With Me
 
 ```md
-LinkedIn: https://linkedin.com/in/YOUR_LINK
-GitHub: https://github.com/YOUR_USERNAME
-Email: your-email@example.com
+LinkedIn:https://www.linkedin.com/in/omkar-sathe-1173b3319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+My LinkedIn profile link 🖇️ 
+GitHub: https://github.com/OM2356
+Email: omkarsathe3103@gamil.com
 ```
 
 ---
