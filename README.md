@@ -1,158 +1,157 @@
-# Hi there, I'm Omkar Sathe 👋
+# 👋 Hello, I'm Omkar Sathe
 
-I'm a Computer Science student and aspiring Software Developer passionate about Artificial Intelligence, Machine Learning, Web Development, and Problem Solving. I enjoy building real-world projects, learning new technologies, and improving my development skills every day.
+<div align="center">
 
-Currently, I'm focused on:
+### 🚀 Aspiring Software Developer | AI & ML Enthusiast | Full Stack Developer
 
-* Data Structures & Algorithms (DSA)
-* Machine Learning & AI
-* Full Stack Web Development
-* Open Source Contributions
-* Microsoft SDE Preparation
+Passionate about building intelligent applications, solving real-world problems, and continuously learning modern technologies.
 
-I believe in continuous learning, building impactful projects, and helping others grow in tech.
+</div>
 
 ---
 
-# 🚀 About Me
+# 🌟 About Me
 
-* 🎓 Pursuing Bachelor's in Computer Science
-* 💻 Learning Python, Java, C++, JavaScript, and C#
-* 🌱 Exploring Machine Learning, Deep Learning & AI Projects
-* 🔥 Building real-world projects for strong portfolio development
-* 🎯 Goal: Become a Software Developer at Microsoft
-* 📚 Improving problem-solving skills through DSA
-* ⚡ Love learning new technologies and creating useful applications
+🎓 Bachelor's Student in Computer Science  
+💻 Passionate about Software Development & Artificial Intelligence  
+🧠 Learning Machine Learning, Deep Learning & System Design  
+🔥 Building real-world projects for strong portfolio development  
+📚 Improving problem-solving skills through DSA & Competitive Programming  
+🎯 Goal: Become a Software Developer at Microsoft  
+
+---
+
+# 🚀 Current Focus
+
+- 📊 Data Structures & Algorithms
+- 🤖 Machine Learning & AI
+- 🌐 Full Stack Web Development
+- ☁️ Backend & Cloud Technologies
+- 🛠 Open Source Contributions
+- 💼 Microsoft SDE Preparation
 
 ---
 
 # 🛠 Tech Stack
 
-## Programming Languages
+## 👨‍💻 Programming Languages
 
-* Python
-* Java
-* C++
-* JavaScript
-* C
-* C#
-
-## Web Development
-
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
-* Flask
-
-## AI & Machine Learning
-
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-* OpenCV
-* TensorFlow
-
-## Databases
-
-* SQLite
-* PostgreSQL
-
-## Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* Google Colab
-* Jupyter Notebook
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-darkblue?style=for-the-badge&logo=c)
+![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
 
 ---
 
-# 🌟 What I'm Working On
+## 🌐 Web Development
 
-* 🤖 Machine Learning Projects
-* 🧠 AI-powered Applications
-* 🎮 Game Development Projects
-* 🌐 Full Stack Web Apps
-* 📊 Data Analytics Projects
-* 🛠 Python Automation Tools
-* 📱 Responsive Frontend Projects
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 
 ---
 
-# 📌 Featured Projects
+## 🤖 AI & Machine Learning
 
-## 🔹 AI & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
 
-* Face Recognition System
-* Fake News Detection
-* Diabetes Prediction Model
-* House Price Prediction
-* Loan Status Prediction
-* SONAR Rock vs Mine Prediction
+---
 
-## 🔹 Web Development
+# 🌟 Featured Projects
 
-* Todo App with Flask
-* Login Authentication System
-* Portfolio Website
-* Responsive Landing Pages
+## 🤖 AI & Machine Learning Projects
 
-## 🔹 Game Development
+- 🔹 Face Recognition System
+- 🔹 Fake News Detection
+- 🔹 Diabetes Prediction Model
+- 🔹 House Price Prediction
+- 🔹 Loan Status Prediction
+- 🔹 SONAR Rock vs Mine Prediction
 
-* Ludo Game using HTML, CSS & JavaScript
-* Subway Surfers-style 2D Game
+---
+
+## 🌐 Web Development Projects
+
+- 🔹 LandSafe Pro
+- 🔹 Login Authentication System
+- 🔹 Portfolio Website
+- 🔹 Flask Todo Application
+- 🔹 Responsive Landing Pages
+
+---
+
+## 🎮 Game Development Projects
+
+- 🔹 Ludo Game using HTML, CSS & JavaScript
+- 🔹 Subway Surfers-style 2D Game
 
 ---
 
 # 📈 GitHub Stats
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OM2356&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OM2356&layout=compact&theme=tokyonight)
 ```
 
 ---
 
 # 🏆 Achievements & Goals
 
-* ✅ Learning Machine Learning from Basic to Advanced
-* ✅ Building Multiple Real-World Projects
-* ✅ Improving DSA & Competitive Programming Skills
-* 🎯 Preparing for Microsoft SDE Roles
-* 🎯 Contributing to Open Source Projects
-* 🎯 Creating impactful AI-based applications
+✅ Learning Machine Learning from Basic to Advanced  
+✅ Building Multiple Real-World Projects  
+✅ Improving DSA & Problem Solving Skills  
+🎯 Preparing for Microsoft SDE Roles  
+🎯 Contributing to Open Source Projects  
+🎯 Building impactful AI-powered applications  
 
 ---
 
 # 📚 Currently Learning
 
-* Advanced Data Structures & Algorithms
-* Deep Learning
-* System Design Basics
-* Backend Development
-* Cloud & AI Integration
+- Advanced Data Structures & Algorithms
+- Deep Learning
+- Backend Development
+- System Design
+- Cloud Computing
+- AI Integration
 
 ---
 
 # 🤝 Connect With Me
 
-```md
-LinkedIn:https://www.linkedin.com/in/omkar-sathe-1173b3319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-My LinkedIn profile link 🖇️ 
-GitHub: https://github.com/OM2356
-Email: omkarsathe3103@gamil.com
-```
+🌐 GitHub:  
+: https://github.com/OM2356
+
+
+💼 LinkedIn:  
+:https://www.linkedin.com/in/omkar-sathe-1173b3319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
+📧 Email:  
+omkarsathe3103@gmail.com
 
 ---
 
 # 💡 Quote I Follow
 
-> "Small improvements every day lead to big success over time."
+> “Small improvements every day lead to big success over time.”
 
 ---
 
-# ⭐ Thanks for Visiting!
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile!
 
 If you like my work, consider giving a ⭐ to my repositories and following my journey in tech 🚀
+
+</div>
