@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;Future+Microsoft+SDE" />
 
 ### 🚀 Aspiring Software Developer | AI & ML Enthusiast | Full Stack Developer
 
