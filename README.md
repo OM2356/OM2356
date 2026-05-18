@@ -1,6 +1,9 @@
+```md
 # 👋 Hello, I'm Omkar Sathe
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;Future+Microsoft+SDE" />
 
 ### 🚀 Aspiring Software Developer | AI & ML Enthusiast | Full Stack Developer
 
@@ -29,6 +32,14 @@ Passionate about building intelligent applications, solving real-world problems,
 - ☁️ Backend & Cloud Technologies
 - 🛠 Open Source Contributions
 - 💼 Microsoft SDE Preparation
+
+---
+
+# 🌍 Languages Known
+
+- 🇮🇳 Marathi
+- 🇮🇳 Hindi
+- 🇬🇧 English
 
 ---
 
@@ -97,11 +108,19 @@ Passionate about building intelligent applications, solving real-world problems,
 
 # 📈 GitHub Stats
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OM2356&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=OM2356&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OM2356&layout=compact&theme=tokyonight)
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM2356&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OM2356&theme=tokyonight" />
+</p>
 
 ---
 
@@ -129,16 +148,14 @@ Passionate about building intelligent applications, solving real-world problems,
 
 # 🤝 Connect With Me
 
-🌐 GitHub:  
-: https://github.com/OM2356
+🌐 GitHub  
+👉 https://github.com/OM2356
 
+💼 LinkedIn  
+👉 https://www.linkedin.com/in/omkar-sathe-1173b3319
 
-💼 LinkedIn:  
-:https://www.linkedin.com/in/omkar-sathe-1173b3319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-
-📧 Email:  
-omkarsathe3103@gmail.com
+📧 Email  
+👉 omkarsathe3103@gmail.com
 
 ---
 
@@ -155,3 +172,4 @@ omkarsathe3103@gmail.com
 If you like my work, consider giving a ⭐ to my repositories and following my journey in tech 🚀
 
 </div>
+```
