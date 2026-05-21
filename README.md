@@ -137,6 +137,9 @@ Passionate about building intelligent applications, solving real-world problems,
 📧 Email
 👉 [omkarsathe3103@gmail.com](mailto:omkarsathe3103@gmail.com)
 
+🌐 Vercel
+👉https://vercel.com/om2356s-projects
+
 ---
 
 # 💡 Quote I Follow
