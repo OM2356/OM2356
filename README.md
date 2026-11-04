@@ -1,211 +1,133 @@
-# 👋 Hello, I'm Omkar Sathe!
+# 👋 Hi, I'm Omkar Sathe
 
 <div align="center">
 
-### 🚀 Aspiring Software Developer | AI & ML Enthusiast | Full Stack Developer
+### Aspiring Software Developer | Full-Stack Developer | AI & ML Enthusiast
 
-Passionate about building intelligent applications, solving real-world problems, and continuously learning modern technologies.
+I’m a Third-Year B.Sc. Computer Science student who enjoys building practical software, exploring AI-powered applications, and strengthening problem-solving skills through hands-on projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-OM2356-black?style=for-the-badge&logo=github)](https://github.com/OM2356)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omkar-sathe-1173b3319)
+[![GitHub](https://img.shields.io/badge/GitHub-OM2356-181717?style=for-the-badge&logo=github)](https://github.com/OM2356)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omkar-sathe-1173b3319)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarsathe3103@gmail.com)
 
 </div>
 
 ---
 
-# 🌟 About Me
+## 🙋‍♂️ About Me
 
-- 🎓 Third-Year B.Sc. Computer Science Student.
-- 💻 Passionate about Software Development and Artificial Intelligence.
-- 🧠 Learning Machine Learning, Deep Learning, and System Design.
-- 🔥 Building real-world projects to strengthen my development skills.
-- 📚 Improving problem-solving skills through DSA and Competitive Programming.
-- 🏆 General Secretary of my College Sports Club.
-- 🎯 Career Goal: Become a Software Development Engineer at Microsoft.
+- 🎓 Third-Year B.Sc. Computer Science student at Bharati Vidyapeeth (Deemed University), Yashwantrao Mohite College, Pune.
+- 💻 Interested in software engineering, full-stack development, and applied AI.
+- 🤖 Building projects that use generative AI, retrieval-augmented generation (RAG), and machine learning.
+- 🧩 Practising Data Structures & Algorithms through my [LeetCode solutions repository](https://github.com/OM2356/OMs).
+- 🏅 General Secretary of my college Sports Club.
+- 🎯 Long-term goal: grow into a Software Development Engineer and contribute to impactful products.
 
----
+## 🧭 Current Focus
 
-# 🚀 Current Focus
+- Data Structures & Algorithms and problem solving
+- Java, Python, JavaScript and TypeScript
+- Full-stack application development and REST APIs
+- Generative AI, Gemini API and RAG-based applications
+- Databases, authentication and backend engineering
+- Cloud deployment, Docker and developer workflows
 
-- 📊 Data Structures & Algorithms
-- 🤖 Machine Learning & Artificial Intelligence
-- 🌐 Full Stack Web Development
-- ☁️ Backend & Cloud Technologies
-- 🛠 Open Source Contributions
-- 💼 Microsoft SDE Preparation
+## 🛠️ Technologies & Tools
 
----
+*Technologies below are based on languages, dependencies and project documentation found across my repositories. Some are used in projects; others are areas I’m actively developing.*
 
-# 🛠️ Tech Stack & Technical Skills
+### Languages
 
-## 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-darkblue?style=for-the-badge&logo=c)
-![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+### Frontend & Backend
 
-## 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+### AI, Machine Learning & Data
 
-- Frontend Development
-- Backend Development
-- Responsive Web Design
-- REST API Development
-- Authentication Systems
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-## 🤖 AI & Machine Learning
+- Generative AI integration, prompt workflows and RAG fundamentals
+- Model-based prediction, data preparation and computer vision fundamentals
 
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+### Databases & Infrastructure
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- AI Application Integration
-- Data Analysis
-- Computer Vision
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-## 🗄️ Database Management
+## 🚀 Featured Projects
 
-- SQL
-- PostgreSQL
-- SQLite
-- Database Management Systems (DBMS)
+### 🤖 AI & Intelligent Applications
 
-## ⚙️ Computer Science Fundamentals
+| Project | What it does | Technologies |
+|---|---|---|
+| [Buddy AI Agents](https://github.com/OM2356/Elder_profiles) | Accessible AI learning assistant for older adults, with voice/text interaction, educational RAG, safety checks and feedback. | React, TypeScript, Node.js, Express, Gemini |
+| [Buddy AI Tutor API](https://github.com/OM2356/Buddy_AI_Agent) | RAG-powered tutor assistant with a vector-enabled knowledge store. | Python, FastAPI, PostgreSQL, pgvector, Gemini |
+| [AI Resume Screening](https://github.com/OM2356/AI) | Resume parsing and AI-assisted candidate-to-role matching. | React, TypeScript, Express, Firebase, Gemini |
+| [AI Study Planner](https://github.com/OM2356/AI-Study-Planner) | Personalized study schedules, authentication and progress tracking. | React, Flask, SQLite, SQLAlchemy, JWT |
+| [ElderCareAI](https://github.com/OM2356/eldercare_system) | Multi-agent elderly-care prototype for monitoring, reminders and caregiver summaries. | Python, scikit-learn, pandas, Ollama, React |
+| [LandSafe Pro](https://github.com/OM2356/landsafe_pro) | AI-assisted property document analysis and risk insights. | React, TypeScript, Express, Gemini |
 
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- System Design (Learning)
+### 🌐 Web & Application Development
 
-## 🧰 Developer Tools & Platforms
+- [FlowState Yoga](https://github.com/OM2356/FlowState-_Yoga) — mood-based yoga and wellness platform with user accounts and database-backed profiles. (Next.js, React, TypeScript, Prisma, SQLite)
+- [Phishing URL Detector](https://github.com/OM2356/Phishing-URL-Detector) — browser-based URL risk analysis and phishing-awareness tool. (React, TypeScript, Tailwind CSS, Vite)
+- [Flask To-Do App](https://github.com/OM2356/OMS31) — task management with login, protected user sessions and SQLite storage.
+- [Django REST API](https://github.com/OM2356/DjangoRestAPI-Omkar) — Django REST Framework learning project.
+- [Hotel Booking System](https://github.com/OM2356/HotelBookingSystem) — Java console application demonstrating booking and room-management logic.
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+### 🧪 Machine Learning, Automation & Practice
 
-- Jupyter Notebook
-- Visual Studio Code
-- Git & GitHub
-- Linux
-- Docker
-- Figma
-- Vercel
+- [Student Performance Prediction](https://github.com/OM2356/student-performance-prediction) — ML-based student marks prediction.
+- [Diabetes Prediction System](https://github.com/OM2356/omkar) — Flask application using a machine-learning model.
+- [OpenCV Projects](https://github.com/OM2356/OpenCV) — image processing, resizing, grayscale and face-detection exercises.
+- [Selenium Automation](https://github.com/OM2356/Selenium-) — browser automation and basic web data extraction.
+- [LeetCode Practice](https://github.com/OM2356/OMs) — solutions covering arrays, strings, linked lists, binary search, dynamic programming, backtracking and more.
+- [Subway Surfers-style Game](https://github.com/OM2356/Subway-Surfers) — browser endless-runner game using HTML, CSS, JavaScript and Canvas.
+- [DSA Quiz](https://github.com/OM2356/Quize) · [Python Quiz](https://github.com/OM2356/Quize1) · [Memory Card Game](https://github.com/OM2356/memorycard)
 
----
+[Explore all my repositories →](https://github.com/OM2356?tab=repositories)
 
-# 🌟 Featured Projects
+## 🏆 Leadership & Activities
 
-## 🤖 AI & Machine Learning Projects
+- General Secretary — College Sports Club
+- Participate in coding activities, technical workshops and collaborative projects
+- Enjoy volleyball, chess and exploring new technologies
 
-- 🔹 Face Recognition System
-- 🔹 Fake News Detection
-- 🔹 Diabetes Prediction Model
-- 🔹 House Price Prediction
-- 🔹 Loan Status Prediction
-- 🔹 SONAR Rock vs Mine Prediction
+## 📚 Currently Learning
 
-## 🌐 Web Development Projects
+- Advanced DSA and interview problem solving
+- Backend engineering and API design
+- Machine learning and practical generative AI
+- System design and cloud technologies
 
-- 🔹 Buddy Elder AI Agent
-- 🔹 FlowState Yoga – Yoga & Wellness Platform
-- 🔹 LandSafe Pro
-- 🔹 Login Authentication System
-- 🔹 Portfolio Website
-- 🔹 Flask Todo Application
-- 🔹 Responsive Landing Pages
-
-## 🎮 Game Development Projects
-
-- 🔹 Ludo Game using HTML, CSS & JavaScript
-- 🔹 Subway Surfers-style 2D Game
-
----
-
-# 🏆 Achievements & Leadership
-
-- 🎖️ General Secretary – College Sports Club.
-- 🏆 Participating in Coding Competitions and Hackathons.
-- 🤝 Participating in Technical Workshops.
-- 👥 Team Collaboration and Project Development.
-- 📢 Leadership, Coordination, and Event Management.
-- 🚀 Building practical projects to improve technical knowledge.
-
----
-
-# 💡 Professional Interests
-
-- Software Engineering
-- Full Stack Development
-- Artificial Intelligence & Machine Learning
-- Backend Development
-- Cloud Computing
-- System Design
-- Competitive Programming
-- Open Source Development
-- AI-powered Applications
-- Emerging Technologies
-
----
-
-# 🎯 Hobbies & Personal Interests
-
-- 🏐 Playing Volleyball.
-- ♟️ Playing Chess.
-- 💻 Exploring New Technologies.
-- 🧠 Solving Programming Challenges.
-- 📚 Learning New Technical Skills.
-- 🚀 Building Creative Projects.
-- 🔍 Exploring AI Tools and Innovations.
-- 🤝 Collaborating with Others and Sharing Knowledge.
-
----
-
-# 📚 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- Deep Learning
-- Backend Development
-- System Design
-- Cloud Computing
-- AI Integration
-- Advanced Problem Solving
-
----
-
-# 🌱 Personal Development Goals
-
-- Improve communication and leadership skills.
-- Become a better problem solver.
-- Develop industry-ready software engineering skills.
-- Participate in more hackathons and open-source projects.
-- Build innovative applications that solve real-world problems.
-- Work towards becoming a Software Development Engineer at Microsoft.
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -217,36 +139,23 @@ Passionate about building intelligent applications, solving real-world problems,
 
 </div>
 
----
-
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/OM2356)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omkar-sathe-1173b3319)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarsathe3103@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Vercel-Visit_My_Projects-black?style=for-the-badge&logo=vercel)](https://vercel.com/om2356s-projects)
+[![GitHub](https://img.shields.io/badge/GitHub-OM2356-181717?style=for-the-badge&logo=github)](https://github.com/OM2356)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omkar-sathe-1173b3319)
+[![Email](https://img.shields.io/badge/Email-omkarsathe3103%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarsathe3103@gmail.com)
+[![Portfolio Projects](https://img.shields.io/badge/Portfolio-My_Projects-000000?style=for-the-badge&logo=vercel)](https://vercel.com/om2356s-projects)
 
 </div>
 
 ---
 
-# 💡 Quote I Follow
-
-> "Small improvements every day lead to big success over time."
-
----
-
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile!
+**“Learn continuously. Build thoughtfully. Improve every day.”**
 
-If you like my work, consider giving a ⭐ to my repositories and following my journey in technology.
-
-### Keep Learning | Keep Building | Keep Growing 🚀
+Thanks for visiting my profile! ⭐
 
 </div>
